@@ -18,7 +18,7 @@ This data set used for this project has been created by us. A spotify playlist h
 
 ## Scope
 
-*The Scope section should outline what is and is not included as part of this project.  Oftentimes we make assumptions of features or functionality that is not necessarily required.  This is especially useful in a phased approach or when working on an existing system.*
+Within this project most of the softwares taught in this program will be used. Python will be used for the coding and data pulling, R will be used to run the analyses and charting, Tableau will also be visualizations adnd charting as well, and lastly Github for version control and project managing using it's Kanban board. 
 
 ## Functional requirements
 
