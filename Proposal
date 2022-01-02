@@ -3,22 +3,22 @@ Five-Year Spotify Analysis project
 
 ## Executive Summary
 
-The Five-Year Spotify Analysis will take a look at top songs from top Billboard albums within the five year range beginning at the year 2017 through 2021. These songs will be used in order to analyze any comparisons or contrasts they may hold. The purpose of this project is to reveal whether there are any changes to valence in the music as the years have passed. In analyzing this, questions about whether the sound of music is positive and cheerful or negative and depressive can be answered. 
-In efforts to expose valence throughout the years a spotify playlist will be created and this data will be pulled and be analysed and visualized. This playlist will be used to possibly meausure genre, tempo, and explicit lyrics. In analyzing this data it will be possible to predict what next years top genre might or might not be.
+The Five-Year Spotify Analysis will take a look at songs from top Billboard albums within the five year range from 2017 through 2021. These songs will be used in order to analyze correlations and trends between yearly charts and within different groups of tracks. Analysis will be performed to determine whether there are any overall changes in valence, the measurement of predicted song "mood", of the top albums' most popular tracks from year to year. Analyses to determine whether there are changes in the frequency and popularity of tracks with explicit lyrics.
 
+In order to collect data, a Spotify playlist for the Billboard Top 200 Albums chart for each year will be created and this data will be pulled and be analyzed and visualized. This dataset will be used to possibly measure genre, tempo, and energy. 
 
 ## Project Objectives
 
-This project is a passion project for Katie and Bianca. With music being a vital part in their everyday lives it was decided that analyzing music data would inspire quests. An onset of this quest was the expanded question of whether the pandemic altered the valence in music. The main goal of this project is to analyze valence in music within the range of the last five years. These analyzations will measure the valence by scores and there are other variables that will impact this project. Some other important factors that will be measured and analyzed will be, expicit lyrics, tempo, and genre.
+The goal of this project is to analyze the audio features of included playlist tracks within the range of the last five years. These analyses will compare valence as well as frequency of explicit lyrics, tempo variance, and genre correlation.
 
 
 ## Background
 
-This data set used for this project has been created by Katie. A spotify playlist has been created with all the songs that will be used for all the analyses. This dataset will be a good representation of top songs for the years 2017 through 2021. 
+This project is a passion project for Katie and Bianca. With music being a vital part in their everyday lives it was decided that analyzing music data would inspire quests. An onset of this quest was the expanded question of whether the pandemic altered the valence in music. This data set used for this project has been created by Katie. A Spotify playlist has been created with all the songs that will be used for all the analyses. This dataset will present a representation of top songs for the years 2017 through 2021. 
 
 ## Scope
 
-There will be a variety of softwares used to perform the analyses in this project. Python will be used for the coding and data pulling, R will be used to run the analyses and charting, Tableau will be used for visualizations and charting as well, and lastly Github for version control and project managing using it's Kanban board. 
+There will be a variety of softwares used to perform the analyses in this project. Python will be used for the coding and data pulling, R will be used to run the analyses and charting, Tableau will be used for visualizations, and Github will be used for version control and project management. 
 
 ## Functional requirements
 
