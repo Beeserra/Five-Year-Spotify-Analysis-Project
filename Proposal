@@ -16,11 +16,24 @@ The goal of this project is to analyze the audio features of included playlist t
 
 This project is a passion project for Katie and Bianca. With music being a vital part in their everyday lives it was decided that analyzing music data would inspire quests. An onset of this quest was the expanded question of whether the pandemic altered the valence in music. This data set used for this project has been created by Katie. A Spotify playlist has been created with all the songs that will be used for all the analyses. This dataset will present a representation of top songs for the years 2017 through 2021. 
 
+
 ## Scope
 
 There will be a variety of softwares used to perform the analyses in this project. Python will be used for the coding and data pulling, R will be used to run the analyses and charting, Tableau will be used for visualizations, and Github will be used for version control and project management. 
 
 ## Functional requirements
+
+
+Data set: The data is composed of songs that have been placed in a playlist on Spotify. The Spotify playlist is then pulled into Python. This dataset is compiled of the top songs of the top 200 albums within each of the five years. 
+
+Data Wrangling: The dataset will then be cleaned up and unnecessary columns will be removed. The data will then be subsetted to produce a more concise and manageable dataset.  Each column will be converted to the appropriate datatype in order to successfully execute analysis. The main columns that will remain in the data set are Artist Name, Album Name, Genre, Duration, Tempo, Valence, and Ranking.
+
+Data Analysis: The data will be studied and looked at thoroughly to assure quality. Questions 
+
+Data Visualization:
+
+Presentation:
+
 
 *This is where most of the detail should reside.  describe all of the required capabilities of the system in detail.  It is helpful to articulate features in terms of user capabilities.  Keep in mind that the features will be designed and developed off of these descriptions, so if you leave anything up to interpretation, you run the risk of the results not meeting your expectations.  You can also assume capabilities that are not mentioned here will not be included in the project, no matter how common or obvious they are.  You may want to break our subsections for each major feature to make the document more organized.*
 
