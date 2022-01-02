@@ -3,17 +3,18 @@ Five-Year Spotify Analysis project
 
 ## Executive Summary
 
-The Five-Year Spotify Analysis will take a look at top songs from top albums within the five year range starting from the year 2017 through 2021. The tops songs will be analysed using a variety of languages and programs to fully analyze through comparisons and contrasts. The purpose of this project is to reveal whether there are any changes to valence in the music as the years have passed. In analyzing this, we can answer questions about the sound of music in regards are they positive and upbringing sounds of low and down sounds. 
-In efforts to expose valence throughout the years we will analyse and visualize data pulled from a Spotify playlist created by us. 
+The Five-Year Spotify Analysis will take a look at top songs from top Billboard albums within the five year range beginning at the year 2017 through 2021. These songs will be used in order to analyze any comparisons or contrasts they may hold. The purpose of this project is to reveal whether there are any changes to valence in the music as the years have passed. In analyzing this, we can answer questions about the sound of music whether it is positive and cheerful or negative and depressive. 
+In efforts to expose valence throughout the years we will analyse and visualize data pulled from a Spotify playlist created by us. This playlist will be used to possibly meausure genre, tempo, and explicit lyrics. In analyzing this data we can then possibly predict what next years top genre might be or not be.
 
 
-## Business Objectives
+## Project Objectives
 
-*Business objectives should offer the details for why the project is important.  Outline the goals of the project int he sense of the value it will bring and set expectations.  Keep your objectives measurable to avoid confusion in whether or not they have been met.*
+This project is a passion project for both Katie and myself. With music being a vital part in our everyday lives we decided that analyzing and looking closer at music data would inspire quests. An onset of this quest was the expanded question of whether the pandemic altered the valence in music. The main goal of this project is to analyze valence in music within the range of the last five years. These analyzations will measure the valence by scores and there are other variables that will impact this project. Some other important factors that will be measured and analyzed will be, expicit lyrics, tempo, and genre.
+
 
 ## Background
 
-*Provide any relevant background information regarding why this project is being initiated*
+This data set used for this project has been created by us. A spotify playlist has been created with all the songs that will be used for all the analyses. This dataset will be a good representation of top songs for the years 2017 through 2021. 
 
 ## Scope
 
