@@ -4,23 +4,35 @@ Five-Year Spotify Analysis project
 ## Executive Summary
 
 The Five-Year Spotify Analysis will take a look at top songs from top Billboard albums within the five year range beginning at the year 2017 through 2021. These songs will be used in order to analyze any comparisons or contrasts they may hold. The purpose of this project is to reveal whether there are any changes to valence in the music as the years have passed. In analyzing this, questions about whether the sound of music is positive and cheerful or negative and depressive can be answered. 
-In efforts to expose valence throughout the years a spotify playlist will be created and this data will be pulled and be analysed and visualized. This playlist will be used to possibly meausure genre, tempo, and explicit lyrics. In analyzing this data it will be possible to predict what next years top genre might or might not be.
+In efforts to expose valence throughout the years a Spotify playlist will be created and this data will be pulled and be analyzed and visualized. This playlist will be used to possibly measure genre, tempo, and explicit lyrics. In analyzing this data it will be possible to predict what next years top genre might or might not be.
 
 
 ## Project Objectives
 
-This project is a passion project for Katie and Bianca. With music being a vital part in their everyday lives it was decided that analyzing music data would inspire quests. An onset of this quest was the expanded question of whether the pandemic altered the valence in music. The main goal of this project is to analyze valence in music within the range of the last five years. These analyzations will measure the valence by scores and there are other variables that will impact this project. Some other important factors that will be measured and analyzed will be, expicit lyrics, tempo, and genre.
+This project is a passion project for Katie and Bianca. With music being a vital part in their everyday lives it was decided that analyzing music data would inspire quests. An onset of this quest was the expanded question of whether the pandemic altered the valence in music. The main goal of this project is to analyze valence in music within the range of the last five years. These analyzations will measure the valence by scores and there are other variables that will impact this project. Some other important factors that will be measured and analyzed will be, explicit lyrics, tempo, and genre.
 
 
 ## Background
 
-This data set used for this project has been created by Katie. A spotify playlist has been created with all the songs that will be used for all the analyses. This dataset will be a good representation of top songs for the years 2017 through 2021. 
+This data set used for this project has been created by Katie. A Spotify playlist has been created with all the songs that will be used for all the analyses. This dataset will be a good representation of top songs for the years 2017 through 2021. 
 
 ## Scope
 
 There will be a variety of softwares used to perform the analyses in this project. Python will be used for the coding and data pulling, R will be used to run the analyses and charting, Tableau will be used for visualizations and charting as well, and lastly Github for version control and project managing using it's Kanban board. 
 
 ## Functional requirements
+
+
+Data set: The data is composed of songs that have been placed in a playlist on Spotify. The Spotify playlist is then pulled into Python. This dataset is compiled of the top songs of the top 200 albums within each of the five years. 
+
+Data Wrangling: The dataset will then be cleaned up and unnecessary columns will be removed. The data will then be subsetted to produce a more concise and manageable dataset.  Each column will be converted to the appropriate datatype in order to successfully execute analysis. The main columns that will remain in the data set are Artist Name, Album Name, Genre, Duration, Tempo, Valence, and Ranking.
+
+Data Analysis: The data will be studied and looked at thoroughly to assure quality. Questions 
+
+Data Visualization:
+
+Presentation:
+
 
 *This is where most of the detail should reside.  describe all of the required capabilities of the system in detail.  It is helpful to articulate features in terms of user capabilities.  Keep in mind that the features will be designed and developed off of these descriptions, so if you leave anything up to interpretation, you run the risk of the results not meeting your expectations.  You can also assume capabilities that are not mentioned here will not be included in the project, no matter how common or obvious they are.  You may want to break our subsections for each major feature to make the document more organized.*
 
