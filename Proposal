@@ -19,18 +19,19 @@ This project is a passion project for Katie and Bianca. With music being a vital
 
 ## Scope
 
-There will be a variety of softwares used to perform the analyses in this project. Python will be used for the coding and data pulling, R will be used to run the analyses and charting, Tableau will be used for visualizations, and Github will be used for version control and project management. 
+The scope of this project will extend to analysis of tracks from the Top 200 Album charts for the past five years. Analysis will neither extend further back beyond that time scope or project forward more than a year beyond the current chart year. Analyses will include only features readily available and accessible through Spotify's public API and standard documentation. 
+
 
 ## Functional requirements
 
 
-Data set: The data is composed of songs that have been placed in a playlist on Spotify. The Spotify playlist is then pulled into Python. This dataset is compiled of the top songs of the top 200 albums within each of the five years. 
+Data set: The data is composed of tracks from albums that have been placed in chart-year based playlists on Spotify. Each Spotify playlist is then pulled into Python and used to compile a larger dataset of songs contained on each full album listed not he yearly charts.
 
-Data Wrangling: The dataset will then be cleaned up and unnecessary columns will be removed. The data will then be subsetted to produce a more concise and manageable dataset.  Each column will be converted to the appropriate datatype in order to successfully execute analysis. The main columns that will remain in the data set are Artist Name, Album Name, Genre, Duration, Tempo, Valence, and Ranking.
+Data Wrangling: The dataset will then be cleaned up and unnecessary columns will be removed. The data will then be subsetted to produce a more concise and manageable dataset.  Each column will be converted to the appropriate datatype in order to successfully execute analysis. The main columns that will remain in the data set are Artist Name, Album Name, Genre, Duration, Tempo, Valence, Explicit, and Popularity.
 
-Data Analysis: The data will be studied and looked at thoroughly to assure quality. Questions 
+Data Analysis: Data will be analyzed primarily in R with preliminary visualizations.
 
-Data Visualization:
+Data Visualization: Data visualizations will primarily be finalized in Tableau
 
 Presentation:
 
